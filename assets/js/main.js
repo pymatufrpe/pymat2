@@ -51,6 +51,21 @@ $(document).ready(function() {
 	   $('.header').removeClass('header-has-bg');
 	});
     
+	/* ======= Modal Data ========= */
+    $(document).on('click', '.open-Modal', function(){
+        let card = $(this)[0].querySelector('.card-body');
+        let image = $(this)[0].querySelector('a > img').src;
+        let name = card.querySelector('.mb-2').textContent;
+        let job = card.querySelector('.mb-3 > .meta').textContent;
+        let company = card.querySelector('.meta ~ .meta').textContent;
+        
+        let modal = $('#modal-speaker-1')[0];
+        modal.querySelector('h2.name').innerText = name;
+        modal.querySelector('h2.name ~ div.meta').innerText = job;
+        modal.querySelector('div.meta ~ div.mb-2').innerText = company;
+        modal.querySelector('img').src = image;
+    });
+
 	
 	/* ======= Countdown ========= */
 	// set the date we're counting down to
