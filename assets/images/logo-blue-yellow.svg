@@ -12,7 +12,7 @@
    viewBox="0 0 1280 720"
    version="1.1"
    id="svg72"
-   sodipodi:docname="logo-white.svg"
+   sodipodi:docname="logo-blue-yellow.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-filename="/home/clei/Documentos/PyMat/logo3.png"
    inkscape:export-xdpi="96"
@@ -46,8 +46,8 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="0.3938172"
-     inkscape:cx="429.95063"
-     inkscape:cy="523.64498"
+     inkscape:cx="394.40114"
+     inkscape:cy="422.07502"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -85,48 +85,48 @@
      style="display:inline"
      transform="translate(0,680)">
     <g
-       transform="matrix(15.419783,0,0,15.419783,-138.36948,-608.11859)"
-       style="fill:#ffffff;fill-opacity:1"
+       transform="matrix(13.324066,0,0,13.324066,-32.580561,-568.96013)"
+       style="fill:#1b2d4f;fill-opacity:1"
        id="OUTLINE-V2-white">
       <path
          inkscape:connector-curvature="0"
          d="m 19.324357,36.517857 c -2.279986,-0.643073 -3.902259,-1.666128 -4.866868,-3.069196 -0.96461,-1.403069 -1.446907,-3.104263 -1.446907,-5.103636 v -3.560267 c 0,-1.157532 -0.254303,-2.05782 -0.762915,-2.700893 C 11.739055,21.440792 10.952764,21.11926 9.8887705,21.11926 v -3.525191 c 1.0639935,0 1.8502845,-0.318609 2.3588965,-0.955836 0.508612,-0.637226 0.762915,-1.546284 0.762915,-2.7272 v -3.560268 c 0,-1.9993719 0.482297,-3.6976436 1.446907,-5.0948658 0.964609,-1.3972221 2.586882,-2.4173543 4.866868,-3.0604273 L 20.3065,4.9489796 c -1.005532,0.3624593 -1.709979,1.0084456 -2.113361,1.9379783 -0.403382,0.9295327 -0.60507,2.0841236 -0.60507,3.4638071 v 3.560268 c 0,1.215993 -0.263071,2.294585 -0.789222,3.23581 -0.526151,0.941225 -1.315365,1.674902 -2.367666,2.201052 1.052301,0.549535 1.841515,1.294904 2.367666,2.236129 0.526151,0.941225 0.789222,2.008126 0.789222,3.200734 v 3.560267 c 0,1.379684 0.201688,2.534275 0.60507,3.463808 0.403382,0.929533 1.107829,1.575519 2.113361,1.937978 z m 61.343936,-2.771046 c 0.982148,-0.362459 1.677825,-1.008445 2.087053,-1.937978 0.409229,-0.929533 0.61384,-2.084124 0.61384,-3.463808 v -3.560267 c 0,-1.215993 0.268917,-2.291662 0.80676,-3.227041 0.537843,-0.935379 1.356287,-1.666133 2.455357,-2.192283 -1.09907,-0.526151 -1.917514,-1.259828 -2.455357,-2.201053 -0.537843,-0.941225 -0.80676,-2.025663 -0.80676,-3.253348 v -3.560268 c 0,-1.3796835 -0.204611,-2.5342744 -0.61384,-3.4638071 -0.409228,-0.9295327 -1.104905,-1.575519 -2.087053,-1.9379783 l 0.982143,-2.7535077 c 2.268293,0.643073 3.887644,1.6632052 4.858099,3.0604273 0.970456,1.3972222 1.455676,3.0954939 1.455676,5.0948658 v 3.560268 c 0,1.180916 0.25138,2.089974 0.754146,2.7272 0.502766,0.637227 1.286134,0.955836 2.350127,0.955836 v 3.525191 c -1.063993,0 -1.847361,0.321532 -2.350127,0.964605 -0.502766,0.643073 -0.754146,1.543361 -0.754146,2.700893 v 3.560267 c 0,1.999373 -0.48522,3.700567 -1.455676,5.103636 -0.970455,1.403068 -2.589806,2.426123 -4.858099,3.069196 z"
          id="{-}"
          sodipodi:nodetypes="cssssccssssccsssscsssscccsssscssssccssssccsssscc"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#1b2d4f;fill-opacity:1" />
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:616.7913208px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15.41978264"
-       x="433.21442"
-       y="-386.02087"
+       style="font-style:normal;font-weight:normal;font-size:532.96264648px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.32406616"
+       x="461.31885"
+       y="-377.04791"
        id="text104"><tspan
          sodipodi:role="line"
          id="tspan102"
-         x="433.21442"
-         y="159.69489"
-         style="fill:#ffffff;stroke-width:15.41978264" /></text>
+         x="461.31885"
+         y="94.499115"
+         style="stroke-width:13.32406616" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:382.18453979px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.55461407"
-       x="643.82446"
-       y="-357.3862"
+       style="font-style:normal;font-weight:normal;font-size:330.2414856px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1b2d4f;fill-opacity:1;stroke:none;stroke-width:8.25603771"
+       x="643.30469"
+       y="-352.30499"
        id="text108"><tspan
          sodipodi:role="line"
-         x="643.82446"
-         y="-357.3862"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'GFS Neohellenic';-inkscape-font-specification:'GFS Neohellenic Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:9.55461407"
+         x="643.30469"
+         y="-352.30499"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'GFS Neohellenic';-inkscape-font-specification:'GFS Neohellenic Bold';text-align:center;text-anchor:middle;fill:#1b2d4f;fill-opacity:1;stroke-width:8.25603771"
          id="tspan110">P(y)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:465.88812256px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.64720345"
-       x="635.16925"
-       y="-37.32399"
+       style="font-style:normal;font-weight:normal;font-size:402.56884766px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1b2d4f;fill-opacity:1;stroke:none;stroke-width:10.06422138"
+       x="635.82581"
+       y="-75.742752"
        id="text108-0"><tspan
          sodipodi:role="line"
-         x="635.16925"
-         y="-37.32399"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'GFS Neohellenic';-inkscape-font-specification:'GFS Neohellenic Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:11.64720345"
+         x="635.82581"
+         y="-75.742752"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'GFS Neohellenic';-inkscape-font-specification:'GFS Neohellenic Bold';text-align:center;text-anchor:middle;fill:#1b2d4f;fill-opacity:1;stroke-width:10.06422138"
          id="tspan110-3">Mατ</tspan></text>
   </g>
   <g
