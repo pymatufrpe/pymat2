@@ -127,7 +127,7 @@ $(document).ready(function() {
 
         var text_span = document.createElement("h3");
         text_span.classList.add('text-center', 'm-5', 'text-secondary')
-        text_span.textContent = 'No próximo ano, talvez...'
+        text_span.textContent = 'Volte aqui no próximo ano. ;)'
         countdown.appendChild(text_span);
      }
         
